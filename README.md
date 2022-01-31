@@ -1,8 +1,8 @@
-*This is the original Svelt music player boiler plate from [Boltskills](https://www.youtube.com/c/BoltSkills), This boilerplate is the full html code designs for the music player in the video tutorial*
+*This is the original Svelt music player boiler plate from [Boltskills](https://youtu.be/Jnu9k3akRus), This boilerplate is the full html code designs for the music player in the video tutorial*
 
 # Muisc Player
 
-Watch the Full video on Youtube [Svelte Course : Music Player Tutorial](https://boltskills.com) 
+Watch the Full video on Youtube [Svelte Course : Music Player Tutorial](https://youtu.be/Jnu9k3akRus)
 
 *To install the projects, follow the steps below*
 
@@ -33,7 +33,7 @@ By default, the server will only respond to requests from localhost. To allow co
 
 If you're using [Visual Studio Code](https://code.visualstudio.com/) I recommend installing the official extension [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode). If you are using other editors you may need to install a plugin in order to get syntax highlighting and intellisense.
 
- 
+
 ## Single-page app mode
 
 By default, sirv will only respond to requests that match files in `public`. This is to maximise compatibility with static fileservers, allowing you to deploy your app anywhere.
